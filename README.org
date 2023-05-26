@@ -1,0 +1,9 @@
+* cl-dbi-connection-pool
+
+CL-DBI-Connection-Pool - connection pool for CL-DBI
+
+|---------+----------------------------------------------------------------|
+| source  | git:https://github.com/tamurashingo/cl-dbi-connection-pool.git |
+| commit  | 911550d                                                        |
+| systems | cl-dbi-connection-pool                                         |
+|---------+----------------------------------------------------------------|
